@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$Chris","classId":1,"equips":[1,1,0,1,0],"faceIndex":0,"faceName":"Chris01","traits":[{"code":14,"dataId":1,"value":1},{"code":53,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"克莉絲","nickname":"","note":"<rb_si1:以軍大學第一位的身份畢業的某國精英軍人，軍銜大尉。>\n<rb_si2:受命前往太平洋中出現的小島進行調查>\n<rb_si3:但因暴風雨而被迫離開艦船，現在流落到了島上。>\n\n<FTKR_ACTOR_COMMAND: attack 0 true 0 100>\n<FTKR_ACTOR_COMMAND: skill 1 true 0 90>\n<FTKR_ACTOR_COMMAND: skill 2 true 0 80>\n<FTKR_ACTOR_COMMAND: skill 3 true 0 70>\n<FTKR_ACTOR_COMMAND: item 0 true 0 60>\n<FTKR_ACTOR_COMMAND: guard 0 true 0 50>","profile":""}
+]
